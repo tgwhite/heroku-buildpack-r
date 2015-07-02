@@ -52,7 +52,7 @@ else
 fi
 
 S3_BUCKET="heroku-buildpack-r"
-R_BINARIES="https://www.dropbox.com/s/20nhqjcnqkkmbht/R-3.2.1.tar.gz?dl=1"
+R_BINARIES="https://s3-us-west-1.amazonaws.com/rbuild/R-3.2.1.tar.gz"
 
 VENDOR_DIR="$BUILD_DIR/vendor"
 CRAN_MIRROR="http://cran.revolutionanalytics.com"
