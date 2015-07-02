@@ -1,3 +1,4 @@
+
 # Heroku buildpack: R
 
 This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) for applications which use
@@ -10,6 +11,10 @@ the [R project homepage](http://www.r-project.org/) for further information.
 
 [CRAN](http://cran.r-project.org/) is a network of ftp and web servers around the world that
 store identical, up-to-date, versions of code and documentation for R.
+
+## Updates
+
+This is a dirty hack to upgrade to 3.2.1. 
 
 ## Usage
 Example usage:
